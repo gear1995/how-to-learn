@@ -167,7 +167,7 @@
 .table__text {
   font-size: 18px;
   font-weight: normal;
-  line-height: 1.2x;
+  line-height: 1.2px;
 }
 
 .feynman {
@@ -185,7 +185,7 @@
   z-index: 1;
   font-size: 120px;
   font-weight: bold;
-  line-height: 1.15x;
+  line-height: 1.15px;
   margin: 0 auto;
   text-align: center;
   position: relative;
@@ -286,14 +286,15 @@
 .table__heading_theme_dark {
   font-size: 24px;
   font-weight: bold;
-  line-height: 1.15x;
-  margin: 0 0 20px 0;
+  line-height: 1.15px;
+  margin: 0;
+  margin-bottom: 20px;
 }
 
 .table__text_theme_dark {
   font-size: 18px;
   font-weight: normal;
-  line-height: 1.2x;
+  line-height: 1.2px;
 }
 
 .footer {
