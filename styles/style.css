@@ -6,7 +6,7 @@
   /* выше установили ограничение по максимальной ширине */
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
 .header {
@@ -94,7 +94,7 @@
   line-height: 1.2;
   margin: 0;
   text-decoration: none;
- }
+}
 
 .two-columns__main-text {
   list-style: none;
@@ -116,7 +116,6 @@
   font-weight: bold;
   line-height: 34px;
   margin: 0;
-
 }
 
 .digits {
@@ -155,7 +154,6 @@
 .table__cell {
   width: 250px;
   margin: 60px 0 0 0;
-
 }
 .table__heading {
   font-size: 24px;
@@ -303,10 +301,9 @@
   padding-bottom: 40px;
   display: flex;
   justify-content: center;
-
 }
 
-.footer__collumns{
+.footer__collumns {
   flex-basis: 711px;
   display: flex;
   justify-content: space-between;
@@ -315,7 +312,6 @@
 .logo_place_footer {
   width: 183px;
   height: 35px;
-
 }
 
 .footer__collumns_content_copyright {
@@ -336,7 +332,6 @@
 .footer__collumns_content_info {
   display: flex;
   flex-direction: column;
-
 }
 
 .footer__collumns_content_social {
@@ -350,7 +345,7 @@
   line-height: 30px;
   margin: 0;
   color: white;
-  }
+}
 
 .footer__column-links {
   display: flex;
@@ -374,4 +369,3 @@
   width: 16px;
   margin-right: 10px;
 }
-
