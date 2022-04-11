@@ -3,3 +3,8 @@
   text-decoration: none;
   margin: 0;
 }
+
+.header__link:hover {
+  opacity: 0.5;
+  transition: 0.4s;
+}

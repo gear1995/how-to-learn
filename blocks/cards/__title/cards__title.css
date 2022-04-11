@@ -1,6 +1,7 @@
-.table__heading {
+.cards__title {
   font-size: 24px;
   font-weight: bold;
   line-height: 1.15;
-  margin: 0;
+  text-align: center;
+  margin: 0 0 16px;
 }
