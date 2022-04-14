@@ -1,0 +1,6 @@
+.video__table {
+  display: flex;
+  margin: 50px auto -40px;
+  justify-content: center;
+  padding: 0;
+}

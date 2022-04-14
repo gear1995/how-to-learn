@@ -5,9 +5,10 @@
   margin: 0;
   color: #2f80ed;
   text-decoration: none;
+  transition: 0.4s;
+  align-self: flex-start;
 }
 
 .khan__link:hover {
   opacity: 0.5;
-  transition: 0.4s;
 }

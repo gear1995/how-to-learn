@@ -18,6 +18,7 @@
 @import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
+@import url(../blocks/video/__table/video__table.css);
 @import url(../blocks/oakley/oakley.css);
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/khan/__book-container/khan__book-container.css);
@@ -56,6 +57,7 @@
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 @import url(../blocks/resources/__logo-zone/resourses__logo-zone.css);
 @import url(../blocks/resources/__link/resourses__link.css);
+@import url(../blocks/resources/__logo/resourses__logo.css);
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
